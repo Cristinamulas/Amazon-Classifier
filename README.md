@@ -20,6 +20,10 @@ Given clean data, I used spacy to tokenize, lemmatize and filter the data. I use
 
 ## Visualization of Word Frequecies and Wordcloud
 
+ ![](Screen%20Shot%202020-02-18%20at%204.45.41%20PM.png)
+
+ ![](Screen%20Shot%202020-02-18%20at%204.45.59%20PM.png)
+
 
 
 
