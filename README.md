@@ -6,7 +6,7 @@ Build a classifier that predicts whether a review is negative or positive. This 
 ## Data Collection
 I scraped an Amazon website to get the reviews from an app called OverDrive that is a library for audio books and Ebooks. I wrote a script that iterates over 200 review pages to extract review titles, review descriptions, the name of the person who left a review and the date when the review took place from this app. My data set contains a total of 2,388 reviews.
 
-## Exploratory Data Anlaysis (ADA) 
+## Exploratory Data Anlaysis (EDA) 
 
   ![](Screen%20Shot%202020-02-18%20at%204.30.35%20PM.png)
 
