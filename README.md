@@ -26,7 +26,7 @@ Given clean data, I used spacy to tokenize, lemmatize and filter the data. I use
 
 ## Sentiment Analysis
 
-I implemented sentiment analysis in my dataset. After I will encode positive sentiment as 1 and negative sentiment as 0 so the dataset will have labels for the classification models.
+I implemented sentiment analysis in my dataset for labelling my dataset. After I will encode positive sentiment as 1 and negative sentiment as 0. These will be the target values for my classification models.
 
  ![](Screen%20Shot%202020-02-18%20at%204.50.24%20PM.png)
 
