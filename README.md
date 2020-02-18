@@ -24,6 +24,17 @@ Given clean data, I used spacy to tokenize, lemmatize and filter the data. I use
 
  ![](Screen%20Shot%202020-02-18%20at%204.45.59%20PM.png)
 
+## Sentiment Analysis
+
+I implemented sentiment analysis in my dataset. After I will encode positive sentiment as 1 and negative sentiment as 0 so the dataset will have labels for the classification models.
+
+ ![](creen%20Shot%202020-02-18%20at%204.50.24%20PM.png)
+
+## Performance of ML Models
+
+In total, I trained and tested 9 machine learning models typically used for classification. Based on the training metrics, testing metrics, I decided on AdaBoosting to be our final model.
+
+ ![](Screen%20Shot%202020-02-18%20at%204.53.43%20PM.png)
 
 
 
