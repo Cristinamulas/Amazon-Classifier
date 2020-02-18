@@ -32,7 +32,7 @@ I implemented sentiment analysis in my dataset. After I will encode positive sen
 
 ## Performance of ML Models
 
-In total, I trained and tested 9 machine learning models typically used for classification. Based on the training metrics, testing metrics, I decided on AdaBoosting to be our final model.
+In total, I trained and tested 9 machine learning models typically used for classification. Based on the training metrics, testing metrics, I decided on AdaBoost to be our final model.
 
  ![](Screen%20Shot%202020-02-18%20at%204.53.43%20PM.png)
 
