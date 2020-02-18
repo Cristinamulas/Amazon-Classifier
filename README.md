@@ -10,5 +10,16 @@ I scraped Amazon webside to get the reviews from an APP called OverDrive that is
 
   ![](Screen%20Shot%202020-02-18%20at%204.30.35%20PM.png)
 
+The average review in the dataframe is roughly 183 characters in length. Taking a generous assumption that the average word is 10 characters in length (this can help account for spaces and punctuation), the average article is roughly 18 words long.
+There are 1692 unique authors in the dataframe which is quite diverse. The average author has contributed about 1 review to the dataframe. The top author has contributed 143 reviews.
+The average reviews done by month is 163 in this dataframe. The month with most reviews is January and the month with last reviews is April.
+
+## Data Preprocessing / Feature Engineering
+
+Given clean data, I used spacy to tokenize, lemmatize and filter the data. I used vectorized the reviews with term frequency-inverse document frequency (tf-idf) values, which provided insight to the weight of each word in each document.
+
+## Visualization of Word Frequecies and Wordcloud
+
+
 
 
