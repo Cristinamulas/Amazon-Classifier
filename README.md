@@ -12,7 +12,7 @@ I scraped an Amazon website to get the reviews from an app called OverDrive that
 
 The average review in the dataframe is roughly 183 characters in length. Taking a generous assumption that the average word is 10 characters in length (this can help account for spaces and punctuation), the average article is roughly 18 words long.
 There are 1,692 unique authors in the dataframe which is quite diverse. The average author has contributed about 1 review to the dataframe. The top author has contributed 143 reviews.
-The average reviews done by month is 163 in this dataframe. The month with most reviews is January and the month with last 
+The average reviews done by month is 163 in this dataframe. The month with most reviews is January and the month with last reviews is April.
 
 ## Data Preprocessing / Feature Engineering
 
