@@ -1,7 +1,7 @@
 # Predicting Amazon Reviews
 
 ## Goal
-Build a classifier that predicts whether a review is negative or positive. This classifier would be trained on Amazon reviews of an app called 
+Build a classifier that predicts whether a review is negative or positive. This classifier would be trained on Amazon reviews of an app called OverDrive.
 
 ## Data Collection
 I scraped an Amazon website to get the reviews from an app called OverDrive that is a library for audio books and Ebooks. I wrote a script that iterates over 200 review pages to extract review titles, review descriptions, the name of the person who left a review and the date when the review took place from this app. My data set contains a total of 2,388 reviews.
