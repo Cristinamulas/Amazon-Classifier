@@ -1,4 +1,4 @@
-# Predicting Amazon Reviews
+# Predicting 
 
 ## Goal
 Build a classifier that predicts whether a review is negative or positive. This classifier would be trained on Amazon reviews of an app called OverDrive.
